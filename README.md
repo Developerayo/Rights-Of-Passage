@@ -24,7 +24,7 @@ adulthood and industry readiness.
 
 ## How to Use
 - Star the Repo
-- Create an Issue
+- Create an Issue if any.
 - Then a pull request
 - Fork the repo also
 
@@ -35,7 +35,6 @@ adulthood and industry readiness.
 * You
 
 # NEVER COMMIT TO MASTER, CREATE YOUR BRANCH!!
-# THANK YOU.
 
 
 ## Licence
