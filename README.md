@@ -34,7 +34,9 @@ adulthood and industry readiness.
 * Shodipo Ayomide
 * You
 
-# NEVER COMMIT TO MASTER, CREATE YOUR BRANCH
+# NEVER COMMIT TO MASTER, CREATE YOUR BRANCH!!
+# THANK YOU.
+
 
 ## Licence
 The official website of ROP is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
