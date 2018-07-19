@@ -32,6 +32,7 @@ adulthood and industry readiness.
 
 ## Contributors
 * Shodipo Ayomide
+* geektutor
 * You
 
 # NEVER COMMIT TO MASTER, CREATE YOUR BRANCH!!
